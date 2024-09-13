@@ -1,11 +1,9 @@
 import google.generativeai as genai
 import streamlit as st
 import justiceAI_prompt as jp
-from dotenv import load_dotenv
 import os
 
 # Load environment variables from .env file
-load_dotenv()
 
 # User-specific details
 ai_name = "Justice Ai"
