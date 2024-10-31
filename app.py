@@ -6,7 +6,7 @@ import os
 # Load environment variables from .env file
 
 # User-specific details
-ai_name = "Justice Ai"
+ai_name = "Flivo ai"
 # user_name = "Pavan"
 # project = "building an AI assistant using Bard API"
 # preference = "concise answers and daily updates"
